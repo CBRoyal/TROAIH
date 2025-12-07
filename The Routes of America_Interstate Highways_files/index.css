@@ -1,6 +1,7 @@
 :root{
     --routes-of-america-navbar-links-hover-color: #ffa500;
     --routes-of-america-navbar-links-visited-color: #ffff00;
+    --interstate-highway-table-border-color: #ffffff;
 }
 #background_us_image, #main_interstate_highway_title_image{
     margin-left: auto;
@@ -25,6 +26,12 @@
 }
 #routes_of_america_navbar li a{
     padding: 5px 10px;
+}
+#interstate_highway_table, th, td{
+    border: 3px solid var(--interstate-highway-table-border-color);
+}
+th, td{
+    padding: 5px;
 }
 #routes_of_america_navbar li a:hover, #copyright_link:hover, #web_portfolio_link:hover{
     color: var(--routes-of-america-navbar-links-hover-color);
