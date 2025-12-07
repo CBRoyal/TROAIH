@@ -32,9 +32,9 @@
 #routes_of_america_navbar li a{
     padding: 5px 10px;
 }
-#routes_of_america_navbar li a:hover{
+#routes_of_america_navbar li a:hover, #copyright_link:hover, #web_portfolio_link:hover{
     color: var(--routes-of-america-navbar-links-hover-color);
 }
-#routes_of_america_navbar li a:visited{
+#routes_of_america_navbar li a:visited, #copyright_link:visited, #web_portfolio_link:visited{
     color: var(--routes-of-america-navbar-links-visited-color);
 }
