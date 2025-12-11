@@ -1,26 +1,40 @@
-#background_us_image, #main_interstate_highway_title_image{
-    margin-left: auto;
-    margin-right: auto;
-}
-#background_interstate_sign{
+.background_us_image{
     position: relative;
+    width: 20vw;
+    height: 20vh;
+    left: 500px;
+} 
+.background_interstate_sign{
+    position: absolute;
+    width: 10vw;
+    height: 10vh;
+    left: 70px;
+    top: 10px;
+}
+#first_title_line{
+    left: 100px;
+    top: 20px;
+    rotate: -35deg;
+    font-family: "Permanent Marker", cursive, sans-serif;
+    font-size: 15px;
+    animation-name: bringInTitle;
+    animation-duration: 3s;
+}
+#second_title_line{
+    left: 100px;
+    top: 40px;
+    rotate: -35deg;
+    font-family: "Permanent Marker", cursive, sans-serif;
+    font-size: 15px;
+    animation-name: bringInTitle;
+    animation-duration: 3s;
+    animation-delay: 1s;
+}
+#main_interstate_highway_title_image{
+    width: 50vw;
+    height: 20vh;
     margin-left: auto;
     margin-right: auto;
-}
-.webpage_titles{
-    position: absolute;
-    font-family: "Permanent Marker", cursive, sans-serif;
-    font-size: 25px;
-}
-#routes_of_america_navbar ul{
-    list-style-type: none;
-    padding: 5px 0;
-}
-#routes_of_america_navbar li{
-    padding: 5px 0;
-}
-#routes_of_america_navbar li a{
-    padding: 5px 10px;
 }
 #interstate_highway_table, th, td{
     border: 3px solid white;
@@ -31,9 +45,20 @@
 th, td{
     padding: 5px;
 }
-#routes_of_america_navbar li a:hover, #copyright_link:hover, #web_portfolio_link:hover{
-    color: orange;
+#help_button{
+    border: 10px solid black;
 }
-#routes_of_america_navbar li a:visited, #copyright_link:visited, #web_portfolio_link:visited{
+#routes_of_america_navbar > a:hover, #copyright_link:hover, #web_portfolio_link:hover{
+    color: orange; 
+}
+#routes_of_america_navbar > a:visited, #copyright_link:visited, #web_portfolio_link:visited{
     color: yellow;
+}
+@keyframes bringInTitle{
+    0% {transform: translate(-10px, 45px) rotate(-35deg);}
+    15% {transform: translate(60px, 25px) rotate(-35deg);}
+    25% {transform: translate(60px, 25px) rotate(35deg);}
+    50% {transform: translate(100px, 45px) rotate(35deg);}
+    75% {transform: translate(100px, 45px) rotate(-35deg);}
+    100% {transform: translate(200px, 100px) rotate(-35deg);}
 }
