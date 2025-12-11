@@ -32,18 +32,23 @@
 }
 #main_interstate_highway_title_image{
     width: 50vw;
-    height: 20vh;
+    height: 60vh;
     margin-left: auto;
     margin-right: auto;
 }
-#interstate_highway_table, th, td{
-    border: 3px solid white;
+#primary_interstate_highway_container{
+    flex-direction: row-reverse;
+    text-wrap: wrap;
 }
-#interstate_highway_table{
-    width: 100%;
+#auxilary_interstate_highway_container{
+    text-wrap: wrap;
 }
-th, td{
-    padding: 5px;
+#regional_interstate_highway_container{
+    flex-direction: row-reverse;
+    text-wrap: wrap;
+}
+#business_interstate_highway_container{
+    text-wrap: wrap;
 }
 #help_button{
     border: 10px solid black;
