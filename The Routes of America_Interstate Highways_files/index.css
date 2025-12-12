@@ -46,6 +46,11 @@
 #business_interstate_highway_container{
     text-wrap: wrap;
 }
+#primary_interstate_highway_scenery, #auxiliary_interstate_highway_scenery,
+#regional_interstate_highway_scenery, #business_interstate_highway_container{
+    width: 30vw;
+    height: 30vh;
+}
 #help_button{
     border: 10px solid black;
 }
