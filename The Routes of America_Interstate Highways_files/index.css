@@ -1,26 +1,29 @@
 #routes_of_america_logo{
     position: relative;
-    width: 20vw;
-    height: 20vh;
+    width: 20%;
+    height: 20%;
     margin-left: auto;
     margin-right: auto;
 }
-.title_lines{
+.first_title_line{
     position: absolute;
-    left: 200px;
-    top: 40px; 
-}
-.first{
+    left: 80px;
+    top: 80px;
+    z-index: 2;
     rotate: -35deg;
     font-family: "Permanent Marker", cursive, sans-serif;
-    font-size: 15px;
+    font-size: 15px; 
     animation-name: bringInTitle;
     animation-duration: 3s;
 }
-.second{
+.second_title_line{
+    position: absolute;
+    left: 80px;
+    top: 100px;
+    z-index: 1;
     rotate: -35deg;
     font-family: "Permanent Marker", cursive, sans-serif;
-    font-size: 15px;
+    font-size: 15px; 
     animation-name: bringInTitle;
     animation-duration: 3s;
     animation-delay: 1s;
@@ -47,8 +50,8 @@
 }
 #primary_interstate_highway_scenery, #auxiliary_interstate_highway_scenery,
 #regional_interstate_highway_scenery, #business_interstate_highway_sign{
-    width: 30vw;
-    height: 30vh;
+    width: 25vw;
+    height: 25vh;
 }
 #help_button{
     border: 10px solid black;
