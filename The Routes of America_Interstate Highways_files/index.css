@@ -51,7 +51,7 @@
 #primary_interstate_highway_scenery, #auxiliary_interstate_highway_scenery,
 #regional_interstate_highway_scenery, #business_interstate_highway_sign{
     width: 25vw;
-    height: 25vh;
+    height: 35vh;
 }
 #help_button{
     border: 10px solid black;
