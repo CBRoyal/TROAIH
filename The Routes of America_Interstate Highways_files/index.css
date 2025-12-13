@@ -6,7 +6,7 @@
 .first_title_line{
     position: absolute;
     left: 120px;
-    top: 100px;
+    top: 90px;
     z-index: 2;
     rotate: -35deg;
     font-family: "Permanent Marker", cursive, sans-serif;
@@ -17,7 +17,7 @@
 .second_title_line{
     position: absolute;
     left: 120px;
-    top: 120px;
+    top: 110px;
     z-index: 1;
     rotate: -35deg;
     font-family: "Permanent Marker", cursive, sans-serif;
