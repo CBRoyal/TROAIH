@@ -31,10 +31,6 @@
     margin-left: auto;
     margin-right: auto;
 }
-#types_of_interstate_highways_list{
-    margin-left: auto;
-    margin-right: auto;
-}
 #primary_interstate_highway_container{
     flex-direction: row-reverse;
     text-wrap: wrap;
