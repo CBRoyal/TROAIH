@@ -47,7 +47,7 @@
     text-wrap: wrap;
 }
 #primary_interstate_highway_scenery, #auxiliary_interstate_highway_scenery,
-#regional_interstate_highway_scenery, #business_interstate_highway_container{
+#regional_interstate_highway_scenery, #business_interstate_highway_sign{
     width: 30vw;
     height: 30vh;
 }
