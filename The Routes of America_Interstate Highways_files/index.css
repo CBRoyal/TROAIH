@@ -36,14 +36,12 @@
     text-wrap: wrap;
 }
 #primary_interstate_highway_container{
-    flex-direction: row-reverse;
     text-wrap: wrap;
 }
 #auxilary_interstate_highway_container{
     text-wrap: wrap;
 }
 #regional_interstate_highway_container{
-    flex-direction: row-reverse;
     text-wrap: wrap;
 }
 #business_interstate_highway_container{
