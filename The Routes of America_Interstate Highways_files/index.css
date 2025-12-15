@@ -1,7 +1,5 @@
 .routes_of_america_logo{
     position: relative;
-    margin-left: auto;
-    margin-right: auto;
 }
 .first_title_line{
     position: absolute;
@@ -55,11 +53,6 @@
 #regional_interstate_highway_scenery, #business_interstate_highway_sign{
     width: 25vw;
     height: 35vh;
-}
-#help_button{
-    border: 10px solid black;
-    margin-left: auto;
-    margin-right: auto;
 }
 nav ul{
     list-style-type: none;
