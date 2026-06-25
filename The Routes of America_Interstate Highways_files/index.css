@@ -1,6 +1,9 @@
 :root{
     --routes-of-america-interstate-highway-page-text-color: #ffffff;
     --routes-of-america-modal-color: #000000;
+    --routes-of-america-footer-link-active-color: #ffff00;
+    --routes-of-america-footer-link-hover-color: #ffa500;
+    --routes-of-america-footer-link-color: #ff0000;
 }
 .routes_of_america_logo{
     position: relative;
@@ -74,9 +77,9 @@ nav ul{
 #webportfolio-link:hover{
     color: orange;
 }
-#email-link:visited,
-#copyright-link:visited,
-#webportfolio-link:visited{
+#email-link:active,
+#copyright-link:active,
+#webportfolio-link:active{
     color: yellow;
 }
 @keyframes bringInTitle{
