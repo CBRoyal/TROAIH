@@ -1,5 +1,6 @@
 :root{
     --routes-of-america-interstate-highway-page-text-color: #ffffff;
+    --routes-of-america-modal-color: #000000;
 }
 .routes_of_america_logo{
     position: relative;
