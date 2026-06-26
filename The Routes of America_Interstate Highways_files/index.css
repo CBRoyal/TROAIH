@@ -35,10 +35,7 @@
     animation-delay: 1s;
 }
 #main_interstate_highway_title_image{
-    width: 50vw;
-    height: 60vh;
-    margin-left: auto;
-    margin-right: auto;
+    margin-left: 340px;
 }
 #routes_of_america_interstate_highway_main_content{
     text-wrap: wrap;
