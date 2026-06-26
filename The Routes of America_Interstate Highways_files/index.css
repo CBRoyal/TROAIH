@@ -65,7 +65,7 @@
     width: 25vw;
     height: 35vh;
 }
-routes_of_america_computer_navbar .row{
+#routes_of_america_computer_navbar .row{
     list-style-type: none;
     padding: 10px 0;
 }
