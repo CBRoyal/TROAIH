@@ -49,6 +49,7 @@
 }
 #primary_interstate_highway_table tr{
     padding: 5px;
+    border: 5px solid var(--routes-of-america-interstate-highway-page-text-color);
 }
 #auxilary_interstate_highway_container{
     text-wrap: wrap;
