@@ -46,7 +46,7 @@
     text-wrap: wrap;
 }
 #primary_interstate_highway_table{
-    margin-left: 380px;
+    margin-left: 350px;
 }
 #primary_interstate_highway_table tr td, #primary_interstate_highway_table tr th{
     padding: 5px;
@@ -55,6 +55,9 @@
 }
 #auxilary_interstate_highway_container{
     text-wrap: wrap;
+}
+#auxilary_interstate_highway_table{
+    width: 95%;
 }
 #auxilary_interstate_highway_table tr td, #auxilary_interstate_highway_table tr th{
     padding: 5px;
