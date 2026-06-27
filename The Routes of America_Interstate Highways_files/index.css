@@ -1,5 +1,6 @@
 :root{
     --routes-of-america-interstate-highway-page-text-color: #ffffff;
+    --routes-of-america-navbar-link-hover-color: #32cd32;
     --routes-of-america-modal-color: #000000;
     --routes-of-america-footer-link-active-color: #ffff00;
     --routes-of-america-footer-link-hover-color: #ffa500;
@@ -83,7 +84,7 @@
     flex-direction: column;
 }
 #routes_of_america_computer_navbar .row .col-md a, #routes_of_america_tablet_and_phone_navbar #routes_of_america_tablet_and_phone_navbar_menu li a{
-    color: var(--routes-of-america-main-webpage-text-color);
+    color: var(--routes-of-america-interstate-highway-page-text-color);
 }
 #routes_of_america_computer_navbar .row .col-md a:hover, 
 #routes_of_america_tablet_and_phone_navbar a:hover{
