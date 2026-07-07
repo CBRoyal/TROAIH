@@ -2,6 +2,8 @@
     --routes-of-america-interstate-highway-page-text-color: #ffffff;
     --routes-of-america-navbar-link-hover-color: #32cd32;
     --routes-of-america-primary-interstate-highway-table-bg-color: #008000;
+    --routes-of-america-regional-interstate-highway-table-bg-color: #00bfff;
+    --routes-of-america-regional-interstate-highway-table-border-color: #4169e1;
     --routes-of-america-modal-color: #000000;
     --routes-of-america-footer-link-active-color: #ffff00;
     --routes-of-america-footer-link-hover-color: #ffa500;
@@ -67,6 +69,12 @@
 }
 #regional_interstate_highway_container{
     text-wrap: wrap;
+}
+#regional_interstate_highway_table{
+    margin-left: 100px;
+}
+#regional_interstate_highway_table tr td, #regional_interstate_highway_table tr th{
+    padding: 5px;
 }
 #business_interstate_highway_container{
     text-wrap: wrap;
