@@ -75,6 +75,8 @@
 }
 #regional_interstate_highway_table tr td, #regional_interstate_highway_table tr th{
     padding: 5px;
+    background-color: var(--routes-of-america-regional-interstate-highway-table-bg-color);
+    border: 5px solid var(--routes-of-america-regional-interstate-highway-table-border-color);
 }
 #business_interstate_highway_container{
     text-wrap: wrap;
