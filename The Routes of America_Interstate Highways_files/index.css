@@ -93,12 +93,6 @@
     background-color: var(--routes-of-america-business-interstate-highway-table-bg-color);
     border: 5px solid var(--routes-of-america-modal-color);
 }
-#primary_interstate_highway_scenery, #auxiliary_interstate_highway_scenery,
-#regional_interstate_highway_scenery, #business_loop_interstate_highway_sign,
-#business_spur_interstate_highway_sign{
-    width: 25vw;
-    height: 35vh;
-}
 #routes_of_america_computer_navbar .row{
     list-style-type: none;
     padding: 10px 0;
@@ -197,6 +191,9 @@
     }
     #primary_interstate_highway_container{
         width: 80%;
+    }
+    #primary_interstate_highway_scenery{
+        margin-left: 150px;
     }
     #primary_interstate_highway_table{
         margin-left: 95px;
