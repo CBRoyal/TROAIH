@@ -191,4 +191,10 @@
     #main_interstate_highway_title_image{
         margin-left: 145px;
     }
+    #primary_interstate_highway_table{
+        margin-left: 140px;
+    }
+    #auxilary_interstate_highway_table{
+        margin-left: 10px;
+    }
 }
