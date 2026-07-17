@@ -10,6 +10,9 @@
     --routes-of-america-footer-link-hover-color: #ffa500;
     --routes-of-america-footer-link-color: #ff0000;
 }
+#routes_of_america_interstate_highways_page{
+    width: 100%;
+}
 .routes_of_america_logo{
     position: relative;
     margin-left: 470px;
