@@ -173,4 +173,16 @@
     .routes_of_america_logo{
         margin-left: 225px;
     }
+    #routes_of_america_computer_navbar{
+        display: none;
+    }
+    #routes_of_america_tablet_and_phone_navbar{
+        display: block;
+    }
+    #openbtn{
+        display: block;
+    }
+    .first_title_line, .second_title_line{
+        left: 325px;
+    }
 }
