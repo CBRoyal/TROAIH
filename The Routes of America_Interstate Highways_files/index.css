@@ -220,6 +220,9 @@
     #business_interstate_highway_container{
         width: 80%;
     }
+    .business_interstate_highway_signs{
+        margin-left: 90px;
+    }
     #business_interstate_highway_table{
         width: 85%;
         margin-left: 65px;
