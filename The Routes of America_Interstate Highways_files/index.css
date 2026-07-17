@@ -201,6 +201,9 @@
     #auxilary_interstate_highway_container{
         width: 90%;
     }
+    #auxilary_interstate_highway_scenery{
+        margin-left: 130px;
+    }
     #auxilary_interstate_highway_table{
         width: 85%;
         margin-left: 10px;
