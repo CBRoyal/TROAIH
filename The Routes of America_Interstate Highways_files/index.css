@@ -91,7 +91,8 @@
     border: 5px solid var(--routes-of-america-modal-color);
 }
 #primary_interstate_highway_scenery, #auxiliary_interstate_highway_scenery,
-#regional_interstate_highway_scenery, #business_interstate_highway_sign{
+#regional_interstate_highway_scenery, #business_loop_interstate_highway_sign,
+#business_spur_interstate_highway_sign{
     width: 25vw;
     height: 35vh;
 }
