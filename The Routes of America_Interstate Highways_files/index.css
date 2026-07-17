@@ -170,5 +170,7 @@
     100% {transform: translate(80px, 80px) rotate(-35deg);}
 }
 @media screen and (max-width: 800px){
-    
+    .routes_of_america_logo{
+        margin-left: 225px;
+    }
 }
