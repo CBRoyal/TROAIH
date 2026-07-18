@@ -256,7 +256,9 @@
     #main_interstate_highway_title_image{
         margin-left: 65px;
     }
-    #routes_of_america_interstate_highway_main_content, #primary_interstate_highway_container{
+    #routes_of_america_interstate_highway_main_content, #primary_interstate_highway_container,
+    #auxilary_interstate_highway_container, #regional_interstate_highway_container, 
+    #business_interstate_highway_container{
         width: 100%;
     }
     #primary_interstate_highways_section_title{
