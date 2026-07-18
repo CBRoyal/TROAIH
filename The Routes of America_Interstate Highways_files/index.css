@@ -175,7 +175,7 @@
 }
 @media screen and (max-width: 800px){
     .routes_of_america_logo{
-        margin-left: 225px;
+        margin-left: 230px;
     }
     #routes_of_america_computer_navbar{
         display: none;
@@ -187,7 +187,7 @@
         display: block;
     }
     .first_title_line, .second_title_line{
-        left: 325px;
+        left: 330px;
     }
     #main_interstate_highway_title_image{
         margin-left: 145px;
