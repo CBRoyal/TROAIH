@@ -219,6 +219,9 @@
         width: 85%;
         margin-left: 35px;
     }
+    #regional_interstate_highways_section_title{
+        margin-left: 180px;
+    }
     #regional_interstate_highway_container{
         width: 80%;
     }
