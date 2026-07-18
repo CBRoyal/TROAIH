@@ -206,7 +206,7 @@
     #primary_interstate_highway_table{
         margin-left: 50px;
     }
-    #auxilary_interstate_highways_section_title{
+    #auxilary_interstate_highways_section_title, #regional_interstate_highways_section_title{
         margin-left: 180px;
     }
     #auxilary_interstate_highway_container{
@@ -218,9 +218,6 @@
     #auxilary_interstate_highway_table{
         width: 85%;
         margin-left: 35px;
-    }
-    #regional_interstate_highways_section_title{
-        margin-left: 180px;
     }
     #regional_interstate_highway_container{
         width: 80%;
