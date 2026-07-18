@@ -255,12 +255,11 @@
     #auxilary_interstate_highway_container, #regional_interstate_highway_container, 
     #business_interstate_highway_container{
         width: 100%;
-    }
-    #routes_of_america_interstate_highway_main_content, #primary_interstate_highway_container,
-    #auxilary_interstate_highway_container, #regional_interstate_highway_container,
-    #business_interstate_highway_container, .routes_of_america_contact_section, 
-    .routes_of_america_footer{
         margin-left: 45px;
+    }
+    .routes_of_america_contact_section, 
+    .routes_of_america_footer{
+        margin-left: 60px;
     }
     #primary_interstate_highways_section_title{
         margin-left: 130px;
