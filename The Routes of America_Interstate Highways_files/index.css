@@ -198,7 +198,8 @@
     #primary_interstate_highways_section_title{
         margin-left: 190px;
     }
-    #primary_interstate_highway_container{
+    #primary_interstate_highway_container, #regional_interstate_highway_container,
+    #business_interstate_highway_container{
         width: 80%;
     }
     #primary_interstate_highway_scenery{
@@ -220,9 +221,6 @@
         width: 85%;
         margin-left: 35px;
     }
-    #regional_interstate_highway_container{
-        width: 80%;
-    }
     #regional_interstate_highway_scenery{
         margin-left: 125px;
     }
@@ -231,9 +229,6 @@
     }
     #business_interstate_highways_section_title{
         margin-left: 210px;
-    }
-    #business_interstate_highway_container{
-        width: 80%;
     }
     .business_interstate_highway_signs{
         margin-left: 105px;
