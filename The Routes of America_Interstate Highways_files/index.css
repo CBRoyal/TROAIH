@@ -248,6 +248,9 @@
 }
 @media screen and (max-width: 500px){
     .routes_of_america_logo{
-        margin-left: 80px;
+        margin-left: 90px;
+    }
+    .first_title_line, .second_title_line{
+        margin-left: 190px;
     }
 }
