@@ -293,7 +293,8 @@
         margin-left: 140px;
     }
     .business_interstate_highway_signs{
-        margin-left: 5px;
+        margin-left: 0px;
+        margin-right: 10px;
     }
     #business_interstate_highway_table{
         margin-left: 10px;
