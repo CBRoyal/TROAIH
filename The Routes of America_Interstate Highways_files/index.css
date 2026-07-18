@@ -206,11 +206,14 @@
     #primary_interstate_highway_table{
         margin-left: 50px;
     }
+    #auxilary_interstate_highways_section_title{
+        margin-left: 180px;
+    }
     #auxilary_interstate_highway_container{
         width: 90%;
     }
     #auxilary_interstate_highway_scenery{
-        margin-left: 140px;
+        margin-left: 160px;
     }
     #auxilary_interstate_highway_table{
         width: 85%;
