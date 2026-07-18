@@ -66,6 +66,9 @@
     width: 95%;
     margin-left: 35px;
 }
+#interstate_highway_spur_sign{
+    margin-left: 5px;
+}
 #auxilary_interstate_highway_table tr td, #auxilary_interstate_highway_table tr th{
     padding: 5px;
     background-color: var(--routes-of-america-footer-link-hover-color);
