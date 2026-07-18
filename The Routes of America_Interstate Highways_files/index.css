@@ -246,3 +246,8 @@
         margin-left: 300px;
     }
 }
+@media screen and (max-width: 500px){
+    .routes_of_america_logo{
+        margin-left: 80px;
+    }
+}
