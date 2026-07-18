@@ -253,4 +253,7 @@
     .first_title_line, .second_title_line{
         margin-left: 190px;
     }
+    #main_interstate_highway_title_image{
+        margin-left: 100px;
+    }
 }
