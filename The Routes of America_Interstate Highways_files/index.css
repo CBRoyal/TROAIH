@@ -201,7 +201,7 @@
         width: 80%;
     }
     #primary_interstate_highway_scenery{
-        margin-left: 140px;
+        margin-left: 135px;
     }
     #primary_interstate_highway_table{
         margin-left: 50px;
@@ -210,11 +210,11 @@
         width: 90%;
     }
     #auxilary_interstate_highway_scenery{
-        margin-left: 130px;
+        margin-left: 140px;
     }
     #auxilary_interstate_highway_table{
         width: 85%;
-        margin-left: 25px;
+        margin-left: 35px;
     }
     #regional_interstate_highway_container{
         width: 80%;
