@@ -194,6 +194,9 @@
     #routes_of_america_interstate_highway_main_content{
         width: 85%;
     }
+    .interstate_highways_page_section_titles{
+        margin-left: 50px;
+    }
     #primary_interstate_highway_container{
         width: 80%;
     }
