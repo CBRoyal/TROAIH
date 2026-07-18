@@ -194,8 +194,8 @@
     #routes_of_america_interstate_highway_main_content{
         width: 85%;
     }
-    .interstate_highways_page_section_titles{
-        margin-left: 180px;
+    #primary_interstate_highway_section_title{
+        margin-left: 190px;
     }
     #primary_interstate_highway_container{
         width: 80%;
@@ -224,6 +224,9 @@
     }
     #regional_interstate_highway_table{
         margin-left: 170px;
+    }
+    #business_interstate_highways_section_title{
+        margin-left: 180px;
     }
     #business_interstate_highway_container{
         width: 80%;
