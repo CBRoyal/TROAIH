@@ -259,7 +259,7 @@
     #routes_of_america_interstate_highway_main_content, #primary_interstate_highway_container,
     #auxilary_interstate_highway_container, #regional_interstate_highway_container, 
     #business_interstate_highway_container{
-        width: 100%;
+        width: 90%;
         margin-left: 5px;
     }
     .routes_of_america_contact_section, 
