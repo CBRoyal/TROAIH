@@ -252,6 +252,8 @@
         left: 185px;
     }
     #main_interstate_highway_title_image{
+        width: 300px;
+        height: 300px;
         margin-left: 5px;
     }
     #routes_of_america_interstate_highway_main_content, #primary_interstate_highway_container,
