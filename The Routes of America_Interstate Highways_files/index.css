@@ -182,7 +182,6 @@
     }
     #routes_of_america_navbar .row .col-md a{
         padding: 20px;
-        position: fixed;
     }
     #routes_of_america_navbar .row .col-md a:hover{
         color: var(--routes-of-america-interstate-highway-page-text-color);
