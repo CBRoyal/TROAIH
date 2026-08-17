@@ -167,14 +167,39 @@
     .routes_of_america_logo{
         margin-left: 230px;
     }
-    #routes_of_america_computer_navbar{
-        display: none;
+    #routes_of_america_navbar{
+        display: flex;
+        flex-direction: column;
+        gap: 0px;
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 30vw;
+        height: 100%;
+        transform: translateX(-100%);
+        transition: transform 0.3s ease;
+        z-index: 1;
     }
-    #routes_of_america_tablet_and_phone_navbar{
-        display: block;
+    #routes_of_america_navbar .row .col-md a{
+        padding: 20px;
+    }
+    #routes_of_america_navbar .row .col-md a:hover{
+        color: var(--routes-of-america-interstate-highway-page-text-color);
+        background-color: var(--routes-of-america-help-button-text-hover-color);
+    }
+    #routes_of_america_navbar.open{
+        transform: translateX(0);
     }
     #openbtn{
         display: block;
+        font-size: 70px;
+        cursor: pointer;
+        position: fixed;
+        color: var(--routes-of-america-interstate-highway-page-text-color);
+        bottom: 130px;
+        background-color: transparent;
+        border: none;
+        z-index: 2;
     }
     .first_title_line, .second_title_line{
         left: 330px;
